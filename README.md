@@ -1,12 +1,24 @@
 # c_shell
+Limited capability shell progam. See CS_Final_Report for details. 
 
-Assignment for OS class at OSU. See final report for details.
+## Capabilities
+- Buitin commands:
+  - exit
+  - cd
+- Variables
+  - unset
+  - internal versus shell
+  - export
+  - assignment
+- foreground and background commands
+- redirection
+- pipelines
+- signals
+- jobs
 
-Modified files:
-
+## Modified Assignment Files:
 - builtins.c
 - signal.c
 - vars.c
 - runner.c
 - wait.c
-
